@@ -1,0 +1,158 @@
+/****
+Site Name: Toasty Presents
+Description: HTML site for the Toasty Fire-flow performances
+Author: iamshaun
+Author URI: https://iamshaun.com/
+Version: 1.0
+****/
+
+body {
+	background-color: black;	
+	color: #fff!important;
+	font-family:  "Roboto", sans-serif
+}
+
+div {
+	overflow: hidden;
+	font-family:  "Roboto", sans-serif
+}
+
+/*div#section1-1::before, div#section1-1::after {
+	background-color: rgba(0,0,0,0.9);
+}*/
+
+.logo {
+	padding: 20px 0 10px;
+	text-align: center;
+}
+
+h1, h2 {
+	text-align: center;
+	text-transform: uppercase;	
+}
+
+h2 {
+	font-size: 75px;
+	font-weight: bold;	
+}
+
+#section1-2  {
+	  background-color: rgba(0,0,0,0.7);
+}
+
+.nav-item  {
+	color: #9e9d9e!important;
+	font-weight: bolder;
+	font-size: 18px;
+	text-transform: uppercase;	
+}
+
+.nav-item:hover, .nav-item:active {
+	color: #ff7700!important	;
+}
+
+#section1-1 {
+	background-image: url('ponyboy-slider-crop.png');
+	background-position: center;
+}
+#section1-2 {
+	margin-top: 370px;
+}
+
+#section1-2 h2 {
+	padding-top: 10px
+}
+#section1-2 p {
+	text-align: center;
+}
+
+#section1-2 p a {
+	color: #ff7700;
+}
+
+#section3-overlay {
+	background-color: rgba(0,0,0,0.7);
+}
+
+#specialties-bkgd {
+	background-image: url('flames-edit.webp');
+	background-position: bottom center;
+	background-repeat: no-repeat;
+}
+
+#specialties .type {
+	text-align: center;
+	margin: -40px auto 60px;
+	text-transform: uppercase;
+	font-weight: bolder;
+	font-size: 20px;
+}
+
+.gig-salad {
+	background-color: #2690ff;
+	padding: 20px 0;
+}
+
+#gigsalad-reviews-widget {
+	margin: 0 auto;
+}
+
+.bookings {
+	background-color: white;
+}
+
+.gigsalad_quote_widget {
+	max-width: none;
+}
+
+.gigsalad_quote_widget .margin_top_20 p {
+	text-align: center;	
+}
+
+#section3 {
+	text-align: center;
+	background-image: url('about-us.png');	
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;	
+}
+
+#section3 h2 {
+	padding-top: 10px;
+}
+
+#section3 p {
+	margin: 0 auto;
+	text-align: left!important;
+	width: 630px;
+}
+
+#section3 iframe {
+	margin-bottom: 10px;
+}
+
+.about-us .nav {
+	margin-top: 60px;
+}
+
+#section4 {
+	max-width:100%;	
+}
+
+.bookings{
+	background-color: white;
+}
+
+#gigsalad_quote_widget {
+	margin: 0 auto;
+	max-width: 635px;	
+}
+#gigsalad_quote_widget p {
+	text-align: center!important;
+}
+#section5 {
+	background-color: #fff;
+	color: #000;
+	padding: 50px 0;
+	text-align: center;
+}
